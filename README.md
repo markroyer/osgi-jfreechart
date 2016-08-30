@@ -2,10 +2,10 @@
 
 An OSGI repository for the popular JFreeChart library from http://www.jfree.org/
 
-This repository simply provides an OSGI plugin repository for
-JFreeChart libraries.  The source code has not been modified in
-anyway. The repository is merely a convenient packaging format of both
-binaries and related source material including SWT libraries for OSGI
+This repository provides an OSGI plugin repository for JFreeChart
+libraries.  The source code has not been modified in any way. The
+repository is merely a convenient packaging format for both the binary
+and related source material including SWT libraries for OSGI
 developers.
 
 ## Install
