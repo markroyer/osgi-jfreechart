@@ -43,6 +43,8 @@ The license is LGPL3.  See the included LICENSE file for details.
 
 ## Thanks
 
+The library was written by David Gilbert et al. For more information, please see [jfree.org](http://www.jfree.org/jfreechart/index.html).
+
 The ant build scripts are based on code from:
 
 [http://www.lorenzobettini.it/2015/01/creating-p2-composite-repositories-during-the-build/](http://www.lorenzobettini.it/2015/01/creating-p2-composite-repositories-during-the-build/)
