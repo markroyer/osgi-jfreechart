@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="org.jfree.jfreechart.feature" version="0.0.0">
+      <category name="org.jfree.jfreechart"/>
+   </feature>
+   <feature id="org.jfree.jfreechart.feature.source" version="0.0.0">
+      <category name="org.jfree.jfreechart.source"/>
+   </feature>
+   <category-def name="org.jfree.jfreechart" label="JFreeChart">
+      <description>
+         JFreeChart binary files.
+      </description>
+   </category-def>
+   <category-def name="org.jfree.jfreechart.source" label="JFreeChart (Sources)">
+      <description>
+         JFreeChart source files.
+      </description>
+   </category-def>
+</site>
